@@ -1,0 +1,25 @@
+﻿bool isChild = false;
+bool isTeenager = false;
+bool isGrownup = false;
+
+Console.WriteLine("What's your age?");
+int age = Convert.ToInt32(Console.ReadLine());
+
+if (age >= 0 && age <= 12)
+{
+    isChild = true;
+}
+
+if (age >= 13 && age <= 19)
+{
+    isTeenager = true;
+}
+
+if (age > 19)
+{
+    isGrownup = true;
+}
+    
+Console.WriteLine(isChild);
+Console.WriteLine(isTeenager);
+Console.WriteLine(isGrownup);
