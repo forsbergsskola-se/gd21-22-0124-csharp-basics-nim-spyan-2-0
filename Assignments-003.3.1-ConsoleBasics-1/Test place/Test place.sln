@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10 Boolean update", "P10 Boolean update\P10 Boolean update.csproj", "{528F3A44-016F-4042-9999-8470402FCA88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528F3A44-016F-4042-9999-8470402FCA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528F3A44-016F-4042-9999-8470402FCA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528F3A44-016F-4042-9999-8470402FCA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528F3A44-016F-4042-9999-8470402FCA88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
