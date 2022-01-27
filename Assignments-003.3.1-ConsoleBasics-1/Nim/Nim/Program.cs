@@ -1,5 +1,3 @@
-﻿using System;
-using System.Text;
-
+﻿// See https://aka.ms/new-console-template for more information
 
 //Skapade projekted för tillfället :)

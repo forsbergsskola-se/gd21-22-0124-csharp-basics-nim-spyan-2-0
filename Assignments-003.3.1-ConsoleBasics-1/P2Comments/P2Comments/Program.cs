@@ -1,18 +1,14 @@
 ﻿//Sear Waizy & Elias Bernmarker
 //Date 2022-01-24
 //sear.waizy@skola.forsbergsskola.se & elias.bernmarker@student.forsbergsskola.se
-
-namespace Comment
+public class program
 {
-    public class program
+    /// <summary>
+    /// The Main method is the entry point of a C# application
+    /// </summary>
+    public static void Main()
     {
-        /// <summary>
-        /// The Main method is the entry point of a C# application
-        /// </summary>
-        public static void Main()
-        {
-            //We access the console, then we write the line "HelloWorld" which will output into the console.
-            Console.WriteLine("HelloWorld");
-        }
+        //We access the console, then we write the line "HelloWorld" which will output into the console.
+        Console.WriteLine("HelloWorld");
     }
 }
