@@ -1,13 +1,22 @@
-﻿string outputString = "Hello World";
-float decimalValue = 0.3f;
+﻿namespace DataTypes
+{
+    public class Program
+    {
+        static void main()
+        {
+            string outputString = "Hello World";
+            float decimalValue = 0.3f;
 
-Console.WriteLine(outputString);
-Console.WriteLine(decimalValue);
+            Console.WriteLine(outputString);
+            Console.WriteLine(decimalValue);
 
-bool isAwesome = true;
+            bool isAwesome = true;
 
-Console.WriteLine(isAwesome);
+            Console.WriteLine(isAwesome);
 
-byte hexByte = 0xa7;
+            byte hexByte = 0xa7;
 
-Console.WriteLine(hexByte);
+            Console.WriteLine(hexByte);
+        }
+    }
+}

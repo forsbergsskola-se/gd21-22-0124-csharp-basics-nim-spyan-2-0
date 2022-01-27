@@ -1,7 +1,10 @@
-﻿public class Program
+﻿namespace PrintingOutput
 {
-    public static void Main()
+    public class Program
     {
-        Console.WriteLine("HelloWorld");
+        public static void Main()
+        {
+            Console.WriteLine("HelloWorld");
+        }
     }
 }
