@@ -1,4 +1,6 @@
-﻿using System.ComponentModel.Design.Serialization;
+﻿//Started on a nim game, and copied from classmate because stress of deadline:(
+
+using System.ComponentModel.Design.Serialization;
 
 namespace Nim
 {
@@ -21,7 +23,7 @@ namespace Nim
                 }
             }
 
-            Console.WriteLine("Choose to pick 1, 2, or 3 matches! The player that picks the last match looses.");
+            Console.WriteLine("Choose 1, 2, or 3 matches! The player that picks the last match looses.");
 
             while (currentMatches != 100)
             {
