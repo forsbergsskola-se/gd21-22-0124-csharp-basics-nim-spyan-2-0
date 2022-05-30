@@ -1,0 +1,15 @@
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\bin\Debug\net6.0\ConsoleApp1NimGame.exe
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\bin\Debug\net6.0\ConsoleApp1NimGame.deps.json
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\bin\Debug\net6.0\ConsoleApp1NimGame.runtimeconfig.json
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\bin\Debug\net6.0\ConsoleApp1NimGame.dll
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\bin\Debug\net6.0\ref\ConsoleApp1NimGame.dll
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\bin\Debug\net6.0\ConsoleApp1NimGame.pdb
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\obj\Debug\net6.0\ConsoleApp1NimGame.csproj.AssemblyReference.cache
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\obj\Debug\net6.0\ConsoleApp1NimGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\obj\Debug\net6.0\ConsoleApp1NimGame.AssemblyInfoInputs.cache
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\obj\Debug\net6.0\ConsoleApp1NimGame.AssemblyInfo.cs
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\obj\Debug\net6.0\ConsoleApp1NimGame.csproj.CoreCompileInputs.cache
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\obj\Debug\net6.0\ConsoleApp1NimGame.dll
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\obj\Debug\net6.0\ref\ConsoleApp1NimGame.dll
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\obj\Debug\net6.0\ConsoleApp1NimGame.pdb
+F:\Project\gd21-22-0124-csharp-basics-nim-spyan-2-0\ConsoleApp1NimGame\ConsoleApp1NimGame\obj\Debug\net6.0\ConsoleApp1NimGame.genruntimeconfig.cache
